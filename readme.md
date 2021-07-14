@@ -1,9 +1,11 @@
 # awesome-forests [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-**Awesome-forests** is a curated list of forest datasets for the machine learning and forestry community. The list targets carbon quantification, biodiversity, wildfire, ecosystem service quantification, and general ecosystem analysis.
+**Awesome-forests** is a curated list of forest datasets for the machine learning and forestry community. The list targets data-based biodiversity, carbon, wildfire, ecosystem service, and general ecosystem analysis.
 
-Getting started with data science in forests is HARD. The lack of organized datasets is one reason why. So, this list of datasets intends to get you started with analysing your forests, for example for tree species classification, tree crown segmentation, or carbon quantification.
+Getting started with data science in forests is HARD. The lack of organized datasets is one reason why. So, this list of datasets intends to get you started with analysing your forests.
 
 This is a wide open and inclusive community; please feel free to add your favorite datasets via a pull request. 
+
+![Happy dog in a forest by Jamie street on Unsplash](figures/header_img_jamie_street_unsplash_dog_forest.jpg)  
 
 ## Contents
 - [**Tree species classification**](#tree-species-classification)
@@ -105,10 +107,10 @@ A land cover change detection dataset in over cities and suburbs in China with â
 A list with more change detection datasets.
 
 ## Wildfire
-* todo
+* todo: add datasets for fire detection, fuel moisture quantification, wildfire spread prediction, etc.
 
 ## Raw geospatial imagery (misc)
-- [**Global ecosystem dynamics investigation (GEDI)**](https://gedi.umd.edu/data/download/) *(NASA, UofMaryland, 2021)* \
+- [**Global ecosystem dynamics investigation (GEDI)**](https://gedi.umd.edu/data/download/) *(NASA, University of Maryland, 2021)* \
 A satellite lidar dataset of the globe with topography and lidar pointcloud (100m res.).
 
 - [**Norway's international climate and forests initiative imagery program (NICFI)**](https://www.planet.com/nicfi/) *(NICFI, Ksat, Airbus, Planet, 2020)* \
