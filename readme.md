@@ -5,10 +5,8 @@ Getting started with data science in forests is HARD. The lack of organized data
 
 This is a wide open and inclusive community; please feel free to add your favorite datasets via a pull request. 
 
-![Happy dog in a forest by Jamie street on Unsplash](figures/header_img_jamie_street_unsplash_dog_forest.jpg)  
-
-
-<img src="figures/header_img_jamie_street_unsplash_dog_forest.jpg" alt="Happy dog in a forest by Jamie street on Unsplash" width="40%">
+<img src="figures/header_img_jamie_street_unsplash_dog_forest.jpg" alt="Happy dog in a forest by Jamie street on Unsplash" width="50%">
+Photo of a dog in a forest, by [Jamie Street](https://unsplash.com/@jamie452) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## Contents
 - [**Tree species classification**](#tree-species-classification)
