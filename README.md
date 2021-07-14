@@ -18,20 +18,21 @@ This is a wide open and inclusive community; please feel free to add your favori
 - [**Awesome-awesome**](#awesome-awesome)
 
 ## Tree species classification
-### Processed
+#### Processed
 - [**IDtrees NIST NEON**](https://idtrees.org/competition/) *(Weecology, UofFlorida, NEON, 2020)*
+
 A tree species classification dataset from ≈3 National Forest sites, USA, with ≈400 labeled trees of ≈20 species with airborne RGB, Hyperspectral and Lidar imagery.
 
-- [**Kaggle Forest Cover Type**](https://www.kaggle.com/c/forest-cover-type-kernels-only/data) *(USFS, 2013?)*
+- [**Kaggle Forest Cover Type**](https://www.kaggle.com/c/forest-cover-type-kernels-only/data) *(USFS, 2013?)*  
 A tree species classification dataset from Roosevelt National Forest, USA, with ≈15k labeled and ≈565k unlabeled trees with cartographic variables.
 
-- [**Pasadena Urban Trees**](http://www.vision.caltech.edu/registree/publications-and-dataset.html)*(Caltech, 2016)*
+- [**Pasadena Urban Trees**](http://www.vision.caltech.edu/registree/publications-and-dataset.html)*(Caltech, 2016)*&nbsp;
 A tree species classification dataset from urban Pasadena, USA, with ≈ 80k labeled trees of 18 species with airborne and ground RGB imagery.
 
-- [**Open AI Challenge: Aerial Imagery of South Pacific Islands**](https://docs.google.com/document/d/16kKik2clGutKejU8uqZevNY6JALf4aVk2ELxLeR-msQ/edit) *(WeRobotics, Worldbank, 2018)*
+- [**Open AI Challenge: Aerial Imagery of South Pacific Islands**](https://docs.google.com/document/d/16kKik2clGutKejU8uqZevNY6JALf4aVk2ELxLeR-msQ/edit) *(WeRobotics, Worldbank, 2018)* &nbsp;
 A tree species classification dataset from Kingdom of Tonga with 50km² data of 4 species with airborne RGB imagery.
 
-### Raw
+#### Raw
 - [**Raw urban street tree inventory data**](https://enterprisecontentnew-usfs.hub.arcgis.com/datasets/raw-urban-street-tree-inventory-data-for-49-california-cities) *(USFS, 2006-2013)*
 A raw dataset from 49 cities in California, USA, with ≈930k trees with forest structure variables (e.g., tree species, height, DBH, crown).
 
@@ -45,14 +46,14 @@ A raw dataset from urban California, USA, with ≈4k trees with forest structure
 A raw dataset from 49 US national forests with forest structure variables (e.g., tree species, height, DBH, low-res. GPS)
 
 ## Tree detection
-### Processed
+#### Processed
 - [**DeepForest WeEcology NEON**](https://github.com/weecology/NeonTreeEvaluation) *(Weecology, NEON, UofFlorida, 2018)*
 A tree detection dataset from ≈22 National Forest sites, USA with >15k labeled and >400k unlabeled trees with airborne RGB, Hyperspectral, and Lidar imagery.
 
 - [**Kaggle Aerial Cactus Identification**](https://www.kaggle.com/c/inaturalist-2019-fgvc6/overview) *(CONACYT)*
 A cactus detection dataset from Mexiko with 17k cacti with airborne RGB imagery.
 
-### Raw
+#### Raw
 * see Tree species
 
 ## Biodiversity
@@ -67,10 +68,10 @@ A flora and fauna location-based species recommendation dataset from France with
 * todo: add allometric equations and above- and belowground carbon inventories
 
 ## Tree crown segmentation
-### Processed
+#### Processed
 * todo
 
-### Raw
+#### Raw
 * [**An Unexpectedly Large Count of Trees in the West African Sahara and Sahel**](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1832) (Brandt et al., 2020)
 A raw dataset of the West Sahara with ≈3k tree crown segmentations.
 
