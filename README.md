@@ -19,17 +19,16 @@ This is a wide open and inclusive community; please feel free to add your favori
 
 ## Tree species classification
 #### Processed
-- [**IDtrees NIST NEON**](https://idtrees.org/competition/) *(Weecology, UofFlorida, NEON, 2020)*
-
+- [**IDtrees NIST NEON**](https://idtrees.org/competition/) *(Weecology, UofFlorida, NEON, 2020)*  
 A tree species classification dataset from ≈3 National Forest sites, USA, with ≈400 labeled trees of ≈20 species with airborne RGB, Hyperspectral and Lidar imagery.
 
-- [**Kaggle Forest Cover Type**](https://www.kaggle.com/c/forest-cover-type-kernels-only/data) *(USFS, 2013?)*  
+- [**Kaggle Forest Cover Type**](https://www.kaggle.com/c/forest-cover-type-kernels-only/data) *(USFS, 2013?)*&nbsp;
 A tree species classification dataset from Roosevelt National Forest, USA, with ≈15k labeled and ≈565k unlabeled trees with cartographic variables.
 
-- [**Pasadena Urban Trees**](http://www.vision.caltech.edu/registree/publications-and-dataset.html)*(Caltech, 2016)*&nbsp;
+- [**Pasadena Urban Trees**](http://www.vision.caltech.edu/registree/publications-and-dataset.html)*(Caltech, 2016)*\
 A tree species classification dataset from urban Pasadena, USA, with ≈ 80k labeled trees of 18 species with airborne and ground RGB imagery.
 
-- [**Open AI Challenge: Aerial Imagery of South Pacific Islands**](https://docs.google.com/document/d/16kKik2clGutKejU8uqZevNY6JALf4aVk2ELxLeR-msQ/edit) *(WeRobotics, Worldbank, 2018)* &nbsp;
+- [**Open AI Challenge: Aerial Imagery of South Pacific Islands**](https://docs.google.com/document/d/16kKik2clGutKejU8uqZevNY6JALf4aVk2ELxLeR-msQ/edit) *(WeRobotics, Worldbank, 2018)* \
 A tree species classification dataset from Kingdom of Tonga with 50km² data of 4 species with airborne RGB imagery.
 
 #### Raw
