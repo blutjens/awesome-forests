@@ -46,20 +46,20 @@ A raw dataset from 49 US national forests with forest structure variables (e.g.,
 
 ## Tree detection
 #### Processed
-- [**DeepForest WeEcology NEON**](https://github.com/weecology/NeonTreeEvaluation) *(Weecology, NEON, UofFlorida, 2018)*\
+- [**DeepForest WeEcology NEON**](https://github.com/weecology/NeonTreeEvaluation) *(Weecology, NEON, UofFlorida, 2018)* \
 A tree detection dataset from ≈22 National Forest sites, USA with >15k labeled and >400k unlabeled trees with airborne RGB, Hyperspectral, and Lidar imagery.
 
-- [**Kaggle Aerial Cactus Identification**](https://www.kaggle.com/c/inaturalist-2019-fgvc6/overview) *(CONACYT)*\
+- [**Kaggle Aerial Cactus Identification**](https://www.kaggle.com/c/inaturalist-2019-fgvc6/overview) *(CONACYT)* \
 A cactus detection dataset from Mexiko with 17k cacti with airborne RGB imagery.
 
 #### Raw
 * see [Tree species](#tree-species-classification)
 
 ## Biodiversity
-- [**Kaggle iNaturalist**](https://www.kaggle.com/c/inaturalist-2021) *(iNaturalist, FGVC8, 2021)*\
+- [**Kaggle iNaturalist**](https://www.kaggle.com/c/inaturalist-2021) *(iNaturalist, FGVC8, 2021)* \
 A flora and fauna species classification dataset from global sites with 2.7M labeled images of 10k species with smartphone imagery.
 
-- [**Kaggle GeoLifeCLEF 2021**](https://www.imageclef.org/GeoLifeCLEF2021) *(ImageCLEF, 2021)*\
+- [**Kaggle GeoLifeCLEF 2021**](https://www.imageclef.org/GeoLifeCLEF2021) *(ImageCLEF, 2021)* \
 A flora and fauna location-based species recommendation dataset from France with 1.9M labeled images of 31k species with satellite imagery and cartographic variables.
 
 ## Carbon quantification
@@ -72,58 +72,58 @@ A flora and fauna location-based species recommendation dataset from France with
 * todo
 
 #### Raw
-* [**An Unexpectedly Large Count of Trees in the West African Sahara and Sahel**](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1832) (Brandt et al., 2020)\
+* [**An Unexpectedly Large Count of Trees in the West African Sahara and Sahel**](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1832) (Brandt et al., 2020) \
 A raw dataset of the West Sahara with ≈3k tree crown segmentations.
 
 ## Forest type / land cover classification
-- [**BigEarthNet: large-scale Sentinel-2 benchmark**](http://bigearth.net/) *(TU Berlin, 2019)*\
+- [**BigEarthNet: large-scale Sentinel-2 benchmark**](http://bigearth.net/) *(TU Berlin, 2019)* \
 A landcover multi-classification dataset from 10 European countries with ≈600k labeled images with CORINE land cover labels with Sentinel-2 L2A (10m res.) satellite imagery.
 
-- [**Chesapeake land cover**](http://lila.science/datasets/chesapeakelandcover) *(Chesapeake Conservancy, Microsoft, NAIP, USGS, 2013-2017)*\
+- [**Chesapeake land cover**](http://lila.science/datasets/chesapeakelandcover) *(Chesapeake Conservancy, Microsoft, NAIP, USGS, 2013-2017)* \
 A land cover classification dataset from the Chesapeake Bay, USA, of a 6x7km² area with high- and low-resolution (NLCD) land cover labels with high- (NAIP, RGB-NIR) and low-resolution (Landsat 8, 13-band) satellite imagery.
 
-- [**Kaggle Planet: Understanding the Amazon from Space**](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space) *(SCCON, Planet, 2017)*\
+- [**Kaggle Planet: Understanding the Amazon from Space**](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space) *(SCCON, Planet, 2017)* \
 A land cover classification dataset from the Amazon with deforestation, mining, cloud labels with RGB-NIR (5m res.) satellite imagery.
 
-- [**WiDS Datathon 2019: detection of oil palm plantations**](https://www.kaggle.com/c/widsdatathon2019) *(Global WiDS Team & West Big Data Innovation Hub, 2019)*\
+- [**WiDS Datathon 2019: detection of oil palm plantations**](https://www.kaggle.com/c/widsdatathon2019) *(Global WiDS Team & West Big Data Innovation Hub, 2019)* \
 Binary palm oil plantation classification with 20k images with Planet RGB (3m res.) satellite imagery
 
-- [**UC Merced land use dataset**](https://www.tensorflow.org/datasets/catalog/uc_merced)*(UC Merced, 2010)*\
+- [**UC Merced land use dataset**](https://www.tensorflow.org/datasets/catalog/uc_merced)*(UC Merced, 2010)* \
 A small land cover classification dataset with 2100 images and 21 balanced classes with airborne (0.3m res.) imagery.
 
-- [**Awesome satellite imagery datasets**](https://github.com/chrieke/awesome-satellite-imagery-datasets)\
+- [**Awesome satellite imagery datasets**](https://github.com/chrieke/awesome-satellite-imagery-datasets) \
 A list with more satellite imagery datasets.
 
 ## Change detection (i.e., deforestation)
-- [**Dynamic EarthNet challenge**](http://www.classic.grss-ieee.org/earthvision2021/challenge.html) *(Planet, DLR, TUM, 2021)*\
+- [**Dynamic EarthNet challenge**](http://www.classic.grss-ieee.org/earthvision2021/challenge.html) *(Planet, DLR, TUM, 2021)* \
 A time-series prediction and multi-class change detection dataset of Europe over 2-years with 75 image time-series with 7 land-cover labels and weekly Planet RGB (3m res.) imagery.
 
-- [**Semantic change detection dataset (SECOND)**](http://www.captain-whu.com/PROJECT/SCD/) *(Yang et al., 2020)*\
+- [**Semantic change detection dataset (SECOND)**](http://www.captain-whu.com/PROJECT/SCD/) *(Yang et al., 2020)* \
 A land cover change detection dataset in over cities and suburbs in China with ≈5k image-pairs with 6 land cover classes and airborne imagery.
 
-- [**Awesome remote sensing change detection**](https://github.com/wenhwu/awesome-remote-sensing-change-detection)\
+- [**Awesome remote sensing change detection**](https://github.com/wenhwu/awesome-remote-sensing-change-detection) \
 A list with more change detection datasets.
 
 ## Wildfire
 * todo
 
 ## Raw geospatial imagery (misc)
-- [**Global ecosystem dynamics investigation (GEDI)**](https://gedi.umd.edu/data/download/) *(NASA, UofMaryland, 2021)*\
+- [**Global ecosystem dynamics investigation (GEDI)**](https://gedi.umd.edu/data/download/) *(NASA, UofMaryland, 2021)* \
 A satellite lidar dataset of the globe with topography and lidar pointcloud (100m res.).
 
-- [**Norway's international climate and forests initiative imagery program (NICFI)**](https://www.planet.com/nicfi/) *(NICFI, Ksat, Airbus, Planet, 2020)*\
+- [**Norway's international climate and forests initiative imagery program (NICFI)**](https://www.planet.com/nicfi/) *(NICFI, Ksat, Airbus, Planet, 2020)* \
 A satellite imagery dataset of tropical rainforests with monthly mosaics of RGB (5m res.) satellite imagery. 
 
-- [**National agriculture imagery program (NAIP)**](https://developers.google.com/earth-engine/datasets/catalog/USDA_NAIP_DOQQ) *(FSA USDA, 2003-2021)*\
+- [**National agriculture imagery program (NAIP)**](https://developers.google.com/earth-engine/datasets/catalog/USDA_NAIP_DOQQ) *(FSA USDA, 2003-2021)* \
 An airborne imagery dataset of CONUS with RGB-NIR (0.5m res.) imagery.
 
 - see [**awesome-gis**](https://github.com/sshuair/awesome-gis#data)
 
 ## Awesome-awesome
-- [**Awesome satellite imagery datasets**](https://github.com/chrieke/awesome-satellite-imagery-datasets)\
+- [**Awesome satellite imagery datasets**](https://github.com/chrieke/awesome-satellite-imagery-datasets) \
 A list of more satellite imagery datasets with annotations for deep learning and computer vision.
 
-- [**Awesome GIS**](https://github.com/sshuair/awesome-gis)\
+- [**Awesome GIS**](https://github.com/sshuair/awesome-gis) \
 A list of GIS resources.
 
 ## Attributions

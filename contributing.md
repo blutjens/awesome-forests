@@ -10,7 +10,7 @@ Contributions are incredibly welcome! Please note that this project is released 
 
 - We'd appreciate entries in the form of :
 ```
-- [**Name**](link.com) *(list_of_authors, years_available)*\
+- [**Name**](link.com) *(list_of_authors, years_available)* \
 A <task> dataset from <location> with <size> <object> with <features>.
 
 ```
