@@ -7,6 +7,9 @@ This is a wide open and inclusive community; please feel free to add your favori
 
 ![Happy dog in a forest by Jamie street on Unsplash](figures/header_img_jamie_street_unsplash_dog_forest.jpg)  
 
+
+<img src="figures/header_img_jamie_street_unsplash_dog_forest.jpg" alt="Happy dog in a forest by Jamie street on Unsplash" width="40%">
+
 ## Contents
 - [**Tree species classification**](#tree-species-classification)
 - [**Tree detection**](#tree-detection)
