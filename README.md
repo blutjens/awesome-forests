@@ -1,5 +1,5 @@
 # awesome-forests [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-**Awesome-forests** is a curated list of forest datasets for the machine learning and forestry community. The list targets data-based biodiversity, carbon, wildfire, ecosystem service, and general ecosystem analysis.
+**Awesome-forests** is a curated list of ground-truth forest datasets for the machine learning and forestry community. The list targets data-based biodiversity, carbon, wildfire, ecosystem service, and general ecosystem analysis.
 
 Getting started with data science in forests is HARD. The lack of organized datasets is one reason why. So, this list of datasets intends to get you started with analysing your forests.
 
