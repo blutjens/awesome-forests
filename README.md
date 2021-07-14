@@ -6,6 +6,7 @@ Getting started with data science in forests is HARD. The lack of organized data
 This is a wide open and inclusive community; please feel free to add your favorite datasets via a pull request. 
 
 <img src="figures/header_img_jamie_street_unsplash_dog_forest.jpg" alt="Happy dog in a forest by Jamie street on Unsplash" width="50%">
+
 Photo of a dog in a forest, by [Jamie Street](https://unsplash.com/@jamie452) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## Contents
@@ -14,8 +15,8 @@ Photo of a dog in a forest, by [Jamie Street](https://unsplash.com/@jamie452) on
 - [**Biodiversity**](#biodiversity)
 - [**Tree crown segmentation**](#tree-crown-segmentation)
 - [**Carbon quantification**](#carbon-quantification)
-- [**Forest type classification**](#forest-type-/-land-cover-classification)
-- [**Change detection**](#change-detection)
+- [**Forest type classification**](#forest-type-and-land-cover-classification)
+- [**Change detection**](#change-detection-and-deforestation)
 - [**Wildfire**](#wildfire)
 - [**Raw geospatial imagery**](#raw-geospatial-imagery)
 - [**Awesome-awesome**](#awesome-awesome)
@@ -78,7 +79,7 @@ A flora and fauna location-based species recommendation dataset from France with
 * [**An Unexpectedly Large Count of Trees in the West African Sahara and Sahel**](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1832) (Brandt et al., 2020) \
 A raw dataset of the West Sahara with ≈3k tree crown segmentations.
 
-## Forest type / land cover classification
+## Forest type and land cover classification
 - [**BigEarthNet: large-scale Sentinel-2 benchmark**](http://bigearth.net/) *(TU Berlin, 2019)* \
 A landcover multi-classification dataset from 10 European countries with ≈600k labeled images with CORINE land cover labels with Sentinel-2 L2A (10m res.) satellite imagery.
 
@@ -97,7 +98,7 @@ A small land cover classification dataset with 2100 images and 21 balanced class
 - [**Awesome satellite imagery datasets**](https://github.com/chrieke/awesome-satellite-imagery-datasets) \
 A list with more satellite imagery datasets.
 
-## Change detection (i.e., deforestation)
+## Change detection and deforestation
 - [**Dynamic EarthNet challenge**](http://www.classic.grss-ieee.org/earthvision2021/challenge.html) *(Planet, DLR, TUM, 2021)* \
 A time-series prediction and multi-class change detection dataset of Europe over 2-years with 75 image time-series with 7 land-cover labels and weekly Planet RGB (3m res.) imagery.
 
@@ -110,7 +111,7 @@ A list with more change detection datasets.
 ## Wildfire
 * todo: add datasets for fire detection, fuel moisture quantification, wildfire spread prediction, etc.
 
-## Raw geospatial imagery (misc)
+## Raw geospatial imagery
 - [**Global ecosystem dynamics investigation (GEDI)**](https://gedi.umd.edu/data/download/) *(NASA, University of Maryland, 2021)* \
 A satellite lidar dataset of the globe with topography and lidar pointcloud (100m res.).
 
