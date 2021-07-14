@@ -1,6 +1,6 @@
 # Contributions
 
-Contributions are incredibly welcome!
+Contributions are incredibly welcome! Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
 
 ## What counts as awesome-forests dataset?
 - The list is aimed to facilitate humans who aim to develop *algorithms*. 
