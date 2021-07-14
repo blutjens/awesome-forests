@@ -10,10 +10,12 @@ Contributions are incredibly welcome! Please note that this project is released 
 
 - We'd appreciate entries in the form of :
 ```
-- [**Name**](link.com) *(author, years_available)*  
+- [**Name**](link.com) *(list_of_authors, years_available)*\
 A <task> dataset from <location> with <size> <object> with <features>.
+
 ```
 - The description reads best if it's concise and short.
 - Feel free to add a section if needed.
   - Remember to add the section title to Table of Contents.
 - Make sure spelling and grammar sits.
+- Remove trailing whitespaces.
