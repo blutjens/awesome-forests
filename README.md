@@ -56,6 +56,10 @@ A tree detection dataset from ≈22 National Forest sites, USA with >15k labeled
 - [**Kaggle Aerial Cactus Identification**](https://www.kaggle.com/c/inaturalist-2019-fgvc6/overview) *(CONACYT)* \
 A cactus detection dataset from Mexiko with 17k cacti with airborne RGB imagery.
 
+- [**Swedish National Forest Data Lab: Forest Damages – Larch Casebearer 1.0.**](http://lila.science/datasets/forest-damages-larch-casebearer/) *(Swedish Forest Agency 2021)* \
+A tree detection and classification dataset from 10 sites with RGB drone imagery. In total ~ 102k annotated bounding boxes labeled "Lark" or "other", of which ~ 44,5k are also labeled describing tree 
+damage in four categories.
+
 #### Raw
 * see [Tree species](#tree-species-classification)
 
