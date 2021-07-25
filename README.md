@@ -115,6 +115,9 @@ A dataset that consists of 2,756 LANDSAT-8 satellite images of forest loss event
 - [**Awesome remote sensing change detection**](https://github.com/wenhwu/awesome-remote-sensing-change-detection) \
 A list with more change detection datasets.
 
+- [**Global Forest Change**](https://glad.earthengine.app/view/global-forest-change) \ (*University of Maryland*, 2013)
+Different layers of global forest loss, extracted from Landsat satellite imagery
+
 ## Wildfire
 * todo: add datasets for fire detection, fuel moisture quantification, wildfire spread prediction, etc.
 
