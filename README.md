@@ -112,11 +112,11 @@ A land cover change detection dataset in over cities and suburbs in China with â
 - [**ForestNet deforestation driver**](https://stanfordmlgroup.github.io/projects/forestnet/) *(Jeremy Irvin, Hao Sheng et al., 2020)* \
 A dataset that consists of 2,756 LANDSAT-8 satellite images of forest loss events with deforestation driver annotations. The driver annotations were grouped into Plantation, Smallholder Agriculture, Grassland/shrubland, and Other.
 
+- [**Global Forest Change**](https://glad.earthengine.app/view/global-forest-change) *(University of Maryland, 2013)* \
+Different layers of global forest loss, extracted from Landsat satellite imagery, todo: this is a data product, find ground-truth data
+
 - [**Awesome remote sensing change detection**](https://github.com/wenhwu/awesome-remote-sensing-change-detection) \
 A list with more change detection datasets.
-
-- [**Global Forest Change**](https://glad.earthengine.app/view/global-forest-change) \ (*University of Maryland*, 2013)
-Different layers of global forest loss, extracted from Landsat satellite imagery
 
 ## Wildfire
 * todo: add datasets for fire detection, fuel moisture quantification, wildfire spread prediction, etc.
