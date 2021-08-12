@@ -82,7 +82,7 @@ A raw aboveground biomass dataset from global sites with 1.6k sub-plots (0.25ha)
 - [**TRY: a Global Database of Plant Traits**](https://doi.org/10.1111/j.1365-2486.2011.02451.x) *(Kattge et al., 2011)* \
 A raw plant trait dataset from global sites with 3.0M individual entries across 69k out of 300k existing plant species. The data focuses on 52 trait groups that characterize the vegetative and regeneration stages of the plant life cycle, including growth, dispersal, establishment and persistence
 
--- [**GWDD: Global Wood Density Dataset**](https://doi.org/10.5061/dryad.234) *(Zanne et al., 2009)* \
+- [**GWDD: Global Wood Density Dataset**](https://doi.org/10.5061/dryad.234) *(Zanne et al., 2009)* \
 A raw wood density dataset containing the wood density of 8.4k species.
 
 - see Table S4 in [**The global forest above-ground biomass pool for 2010 estimated from high-resolution satellite observations**](https://doi.org/10.5194/essd-13-3927-2021) *(Santoro et al., 2021)* for more.
@@ -96,7 +96,7 @@ A raw wood density dataset containing the wood density of 8.4k species.
 
 #### Raw
 * [**An Unexpectedly Large Count of Trees in the West African Sahara and Sahel**](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1832) (Brandt et al., 2020) \
-A raw dataset of the West Sahara with ≈3k tree crown segmentations.
+A raw dataset of the West Sahara with ≈3k geolocated tree crown segmentations.
 
 ## Forest type and land cover classification
 - [**BigEarthNet: large-scale Sentinel-2 benchmark**](http://bigearth.net/) *(TU Berlin, 2019)* \
