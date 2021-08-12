@@ -1,5 +1,5 @@
 # awesome-forests [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-**Awesome-forests** is a curated list of ground-truth/validation/in situ forest datasets for the forest-interested machine learning community. The list targets data-based biodiversity, carbon, wildfire, ecosystem service, and general ecosystem analysis.
+**Awesome-forests** is a curated list of ground-truth/validation/in situ forest datasets for the forest-interested machine learning community. The list targets data-based biodiversity, carbon, wildfire, ecosystem service, you name it! analysis.
 
 Getting started with data science in forests is TOUGH. The lack of organized datasets is one reason why. So, this list of datasets intends to get you started with building machine learning models for analysing your forests.
 
