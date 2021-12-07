@@ -9,7 +9,7 @@ This is a wide open and inclusive community; we would very much appreciate if yo
 
 Photo of a dog in a forest, by [Jamie Street](https://unsplash.com/@jamie452) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-## Contents
+## Content
 - [**Tree species classification**](#tree-species-classification)
 - [**Tree detection**](#tree-detection)
 - [**Biodiversity flora**](#biodiversity-flora)
@@ -92,7 +92,7 @@ A raw wood density dataset containing the wood density of 8.4k species.
 
 ## Tree crown segmentation
 #### Processed
-* todo
+* todo. To get started, see [Tree Detection](#tree-detection) for rectangular bounding boxes of tree crowns.
 
 #### Raw
 * [**An Unexpectedly Large Count of Trees in the West African Sahara and Sahel**](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1832) (Brandt et al., 2020) \
