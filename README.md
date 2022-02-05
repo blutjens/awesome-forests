@@ -6,12 +6,12 @@ Getting started with data science in forests is TOUGH. The lack of organized dat
 This is a wide open and inclusive community; we would very much appreciate if you add your favorite datasets via a pull request. 
 
 <img src="figures/header_img_jamie_street_unsplash_dog_forest.jpg" alt="Happy dog in a forest by Jamie street on Unsplash" width="50%">
-
-Photo of a dog in a forest, by [Jamie Street](https://unsplash.com/@jamie452) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Photo of a dog in a forest, by [**Jamie Street**](https://unsplash.com/@jamie452) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## Content
 - [**Tree species classification**](#tree-species-classification)
 - [**Tree detection**](#tree-detection)
+- [**Tree damage / health classification**](#tree-damage-/-health-classification)
 - [**Biodiversity flora**](#biodiversity-flora)
 - [**Tree crown segmentation**](#tree-crown-segmentation)
 - [**Aboveground carbon quantification**](#aboveground-carbon-quantification)
@@ -20,6 +20,7 @@ Photo of a dog in a forest, by [Jamie Street](https://unsplash.com/@jamie452) on
 - [**Change detection**](#change-detection-and-deforestation)
 - [**Wildfire**](#wildfire)
 - [**Wildlife**](#wildlife)
+- [**Bioacoustics**](#Bioacoustics)
 - [**Raw geospatial imagery**](#raw-geospatial-imagery)
 - [**Awesome-awesome**](#awesome-awesome)
 
@@ -65,6 +66,10 @@ damage in four categories.
 #### Raw
 * see [Tree species](#tree-species-classification)
 
+## Tree damage / health classification
+- [**Forest Damages – Larch Casebearer**](https://lila.science/datasets/forest-damages-larch-casebearer/) *(Swedish Forest Agency, 2021)* \
+A tree damage classification dataset from 5 areas in Sweden with 1.5k images with >100k labeled trees with airborne RGB
+
 ## Biodiversity flora
 - [**Kaggle iNaturalist**](https://www.kaggle.com/c/inaturalist-2021) *(iNaturalist, FGVC8, 2021)* \
 A flora and fauna species classification dataset from global sites with 2.7M labeled images of 10k species with smartphone imagery.
@@ -73,6 +78,14 @@ A flora and fauna species classification dataset from global sites with 2.7M lab
 A flora and fauna location-based species recommendation dataset from France with 1.9M labeled images of 31k species with satellite imagery and cartographic variables.
 
 ## Aboveground carbon quantification
+#### Processed
+- [**Forest Canopy Height in Mexican Ecosystems**](https://lila.science/datasets/forest-canopy-height-in-mexican-ecosystems) *(Requena-Mullor JM and Caughlin TT, 2018)* \
+A forest height quantification dataset from Mexico with lidar-derived canopy height values, Landsat-derived vegetation indices, and 1105 aerial images. 
+
+#### Raw
+- [**NASA G-LiHT: Goddard's LiDAR, Hyperspectral & Thermal Imager**](https://gliht.gsfc.nasa.gov/about/) *(Cook et al., 2013)*
+A raw dataset from US forests with high-resolution (<1m) LiDAR, hyperspectral, and thermal imagery 
+
 - [**BAAD: a Biomass And Allometry Database for woody plants**](https://doi.org/10.1890/14-1889.1) *(Falster et al., 2015)* \
 A raw aboveground biomass dataset from global sites with 260k measurements collected in 176 different studies, from 21k individual trees across ~700 species.
 
@@ -98,7 +111,7 @@ A raw wood density dataset containing the wood density of 8.4k species.
 * [**An Unexpectedly Large Count of Trees in the West African Sahara and Sahel**](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1832) (Brandt et al., 2020) \
 A raw dataset of the West Sahara with ≈3k geolocated tree crown segmentations.
 
-## Forest type and land cover classification
+## Forest type / land cover classification
 - [**BigEarthNet: large-scale Sentinel-2 benchmark**](http://bigearth.net/) *(TU Berlin, 2019)* \
 A landcover multi-classification dataset from 10 European countries with ≈600k labeled images with CORINE land cover labels with Sentinel-2 L2A (10m res.) satellite imagery.
 
@@ -114,10 +127,11 @@ Binary palm oil plantation classification with 20k images with Planet RGB (3m re
 - [**UC Merced land use dataset**](https://www.tensorflow.org/datasets/catalog/uc_merced)*(UC Merced, 2010)* \
 A small land cover classification dataset with 2100 images and 21 balanced classes with airborne (0.3m res.) imagery.
 
-- [**Awesome satellite imagery datasets**](https://github.com/chrieke/awesome-satellite-imagery-datasets) \
-A list with more satellite imagery datasets.
+- See [**Awesome satellite imagery datasets**](https://github.com/chrieke/awesome-satellite-imagery-datasets) for more satellite imagery datasets.
 
-## Change detection and deforestation
+- See [**SustainBench**](https://github.com/chrieke/awesome-satellite-imagery-datasets) for more UN SDG -related satellite imagery datasets.
+
+## Change detection (i.e., deforestation)
 - [**Dynamic EarthNet challenge**](http://www.classic.grss-ieee.org/earthvision2021/challenge.html) *(Planet, DLR, TUM, 2021)* \
 A time-series prediction and multi-class change detection dataset of Europe over 2-years with 75 image time-series with 7 land-cover labels and weekly Planet RGB (3m res.) imagery.
 
@@ -137,7 +151,18 @@ A list with more change detection datasets.
 * todo: add datasets for fire detection, fuel moisture quantification, wildfire spread prediction, etc.
 
 ## Wildlife
-* todo: add datasets on wildlife / biodiversity quantification of fauna. Also see [Biodiversity flora](#biodiversity-flora)
+
+- [**iWildCam**](https://github.com/visipedia/iwildcam_comp) A species classification dataset from 414 global locations with >200k labeled images with wildlife camera trap imagery, Landsat-8 multispectral imagery, and GPS coordinates.
+
+- [**iNaturalist**](https://github.com/visipedia/inat_comp) Multiple species classification datasets from global imagery of animals and plants with >2.7M from 10k species.
+
+- See [*LILA.science*](https://lila.science/datasets) for more processed conservation datasets
+
+- See [*Awesome-deep-ecology*](https://github.com/patrickcgray/awesome-deep-ecology/) for more ecology datasets
+
+## Bioacoustics
+
+- todo: add bioacoustics datasets
 
 ## Raw geospatial imagery
 - [**Global ecosystem dynamics investigation (GEDI)**](https://gedi.umd.edu/data/download/) *(NASA, University of Maryland, 2021)* \
