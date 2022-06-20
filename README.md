@@ -26,6 +26,9 @@ Photo of a dog in a forest, by [**Jamie Street**](https://unsplash.com/@jamie452
 
 ## Tree species classification
 #### Processed
+- [**TreeSatAI: Benchmark Archive for Deep Learning in Forest Applications**](https://doi.org/10.5281/zenodo.6598391) *(Schulz et al., 2022)* \
+A tree species classification dataset from Lower Saxony, Germany with 50k images of aerial, Sen-1, Sen-2, georeferenced, time-referenced, with species, age, genus, forest type, and land cover. 
+
 - [**IDtrees NIST NEON**](https://idtrees.org/competition/) *(Weecology, University of Florida, NEON, 2020)* \
 A tree species classification dataset from ≈3 National Forest sites, USA, with ≈400 labeled trees of ≈20 species with airborne RGB, Hyperspectral and Lidar imagery.
 
@@ -83,6 +86,9 @@ A flora and fauna location-based species recommendation dataset from France with
 A forest height quantification dataset from Mexico with lidar-derived canopy height values, Landsat-derived vegetation indices, and 1105 aerial images. 
 
 #### Raw
+- [**Tallo: a global tree allometry and crown architecture database**](https://doi.org/10.1111/gcb.16302) *(Jucket et al., 2022)* \
+A dataset with 500k georeferenced records of individual trees >62k globally distributed sites, >5k tree species from >180 plant families with >100 data contributors from >40 countries
+
 - [**NASA G-LiHT: Goddard's LiDAR, Hyperspectral & Thermal Imager**](https://gliht.gsfc.nasa.gov/about/) *(Cook et al., 2013)*
 A raw dataset from US forests with high-resolution (<1m) LiDAR, hyperspectral, and thermal imagery 
 
