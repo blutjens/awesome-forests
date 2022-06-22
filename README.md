@@ -26,6 +26,9 @@ Photo of a dog in a forest, by [**Jamie Street**](https://unsplash.com/@jamie452
 
 ## Tree species classification
 #### Processed
+- [**The Auto Arborist Dataset: A Large-Scale Benchmark for Multiview Urban Forest Monitoring Under Domain Shift**](https://google.github.io/auto-arborist/) *(Beery et al., 2022)* \
+A tree genus classification dataset from 23 cities in US, Canada with Google Street View imagery with 2M trees and >300 classes. 
+
 - [**TreeSatAI: Benchmark Archive for Deep Learning in Forest Applications**](https://doi.org/10.5281/zenodo.6598391) *(Schulz et al., 2022)* \
 A tree species classification dataset from Lower Saxony, Germany with 50k images of aerial, Sen-1, Sen-2, georeferenced, time-referenced, with species, age, genus, forest type, and land cover. 
 
