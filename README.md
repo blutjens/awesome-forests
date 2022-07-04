@@ -85,6 +85,9 @@ A flora and fauna location-based species recommendation dataset from France with
 
 ## Aboveground carbon quantification
 #### Processed
+- [**ReforesTree: A Dataset for Estimating Tropical Forest Carbon Stock with Deep Learning and Aerial Imagery
+**](https://github.com/gyrrei/ReforesTree) *(Reiersen et al., 2022)* \
+An ML-processed dataset from six reforestation sites in Ecuador for estimating aboveground biomass with RGB drone imagery and individual tree location, bounding box, DBH, species, and biomass. Heavily biased towards banana.
 - [**Forest Canopy Height in Mexican Ecosystems**](https://lila.science/datasets/forest-canopy-height-in-mexican-ecosystems) *(Requena-Mullor JM and Caughlin TT, 2018)* \
 A forest height quantification dataset from Mexico with lidar-derived canopy height values, Landsat-derived vegetation indices, and 1105 aerial images. 
 
