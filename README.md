@@ -26,6 +26,12 @@ Photo of a dog in a forest, by [**Jamie Street**](https://unsplash.com/@jamie452
 
 ## Tree species classification
 #### Processed
+- [**The Auto Arborist Dataset: A Large-Scale Benchmark for Multiview Urban Forest Monitoring Under Domain Shift**](https://google.github.io/auto-arborist/) *(Beery et al., 2022)* \
+A tree genus classification dataset from 23 cities in US, Canada with Google Street View imagery with 2M trees and >300 classes. 
+
+- [**TreeSatAI: Benchmark Archive for Deep Learning in Forest Applications**](https://doi.org/10.5281/zenodo.6598391) *(Schulz et al., 2022)* \
+A tree species classification dataset from Lower Saxony, Germany with 50k images of aerial, Sen-1, Sen-2, georeferenced, time-referenced, with species, age, genus, forest type, and land cover. 
+
 - [**IDtrees NIST NEON**](https://idtrees.org/competition/) *(Weecology, University of Florida, NEON, 2020)* \
 A tree species classification dataset from ≈3 National Forest sites, USA, with ≈400 labeled trees of ≈20 species with airborne RGB, Hyperspectral and Lidar imagery.
 
@@ -79,10 +85,15 @@ A flora and fauna location-based species recommendation dataset from France with
 
 ## Aboveground carbon quantification
 #### Processed
+- [**ReforesTree: A Dataset for Estimating Tropical Forest Carbon Stock with Deep Learning and Aerial Imagery**](https://github.com/gyrrei/ReforesTree) *(Reiersen et al., 2022)* \
+An ML-processed dataset from six reforestation sites in Ecuador for estimating aboveground biomass with RGB drone imagery and individual tree location, bounding box, DBH, species, and biomass. Heavily biased towards banana.
 - [**Forest Canopy Height in Mexican Ecosystems**](https://lila.science/datasets/forest-canopy-height-in-mexican-ecosystems) *(Requena-Mullor JM and Caughlin TT, 2018)* \
 A forest height quantification dataset from Mexico with lidar-derived canopy height values, Landsat-derived vegetation indices, and 1105 aerial images. 
 
 #### Raw
+- [**Tallo: a global tree allometry and crown architecture database**](https://doi.org/10.1111/gcb.16302) *(Jucket et al., 2022)* \
+A dataset with 500k georeferenced records of individual trees >62k globally distributed sites, >5k tree species from >180 plant families with >100 data contributors from >40 countries
+
 - [**NASA G-LiHT: Goddard's LiDAR, Hyperspectral & Thermal Imager**](https://gliht.gsfc.nasa.gov/about/) *(Cook et al., 2013)*
 A raw dataset from US forests with high-resolution (<1m) LiDAR, hyperspectral, and thermal imagery 
 
