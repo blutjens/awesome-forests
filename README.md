@@ -3,7 +3,7 @@
 
 Getting started with data science in forests is TOUGH. The lack of organized datasets is one reason why. So, this list of datasets intends to get you started with building machine learning models for analysing your forests.
 
-This is a wide open and inclusive community; we would very much appreciate if you add your favorite datasets via a pull request. 
+This is a wide open and inclusive community. We would very much appreciate if you add your favorite datasets via a pull request or (emailing (lutjens at mit [dot] edu).
 
 <img src="figures/header_img_jamie_street_unsplash_dog_forest.jpg" alt="Happy dog in a forest by Jamie street on Unsplash" width="50%">
 Photo of a dog in a forest, by [**Jamie Street**](https://unsplash.com/@jamie452) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
@@ -149,6 +149,7 @@ A list with more change detection datasets.
 
 ## Wildfire
 * todo: add datasets for fire detection, fuel moisture quantification, wildfire spread prediction, etc.
+- todo: Add https://mlhub.earth/data/su_sar_moisture_content_main, https://www.sciencedirect.com/science/article/pii/S003442572030167X?via%3Dihub
 
 ## Wildlife
 
@@ -182,6 +183,8 @@ A list of more satellite imagery datasets with annotations for deep learning and
 
 - [**Awesome GIS**](https://github.com/sshuair/awesome-gis) \
 A list of GIS resources.
+
+- todo: add link to dataset list on [conservationtech.directory](https://conservationtech.directory/)
 
 ## Attributions
 - Awesome-forests contains individual entries from [Awesome satellite imagery datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) and [Awesome remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
