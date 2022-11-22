@@ -69,6 +69,9 @@ A cactus detection dataset from Mexiko with 17k cacti with airborne RGB imagery.
 A tree detection and classification dataset from 10 sites with RGB drone imagery. In total ~ 102k annotated bounding boxes labeled "Lark" or "other", of which ~ 44,5k are also labeled describing tree 
 damage in four categories.
 
+- [**Norlab – PercepTree**](https://github.com/norlab-ulaval/PercepTreeV1) *(Northern laboratory, 2022)* \
+This repository contains two datasets: 43k synthetic forest images and 100 real image dataset. Both include high-definition RGB images with depth information, bounding box, instance segmentation masks and keypoints annotation.
+
 #### Raw
 * see [Tree species](#tree-species-classification)
 
