@@ -112,6 +112,9 @@ A raw plant trait dataset from global sites with 3.0M individual entries across 
 - [**GWDD: Global Wood Density Dataset**](https://doi.org/10.5061/dryad.234) *(Zanne et al., 2009)* \
 A raw wood density dataset containing the wood density of 8.4k species.
 
+- [**GlobAllomeTree: Assessing volume, biomass and carbon stocks of trees and forests**](http://www.globallometree.org/) *(FAO et al., 2013)* \
+A large raw dataset of allometric equations, wood densities, raw biomass and volume data, and biomass extension factors.
+
 - see Table S4 in [**The global forest above-ground biomass pool for 2010 estimated from high-resolution satellite observations**](https://doi.org/10.5194/essd-13-3927-2021) *(Santoro et al., 2021)* for more.
 
 ## Belowground carbon quantification
