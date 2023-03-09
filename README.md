@@ -128,6 +128,9 @@ A large raw dataset of allometric equations, wood densities, raw biomass and vol
 * [**An Unexpectedly Large Count of Trees in the West African Sahara and Sahel**](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1832) (Brandt et al., 2020) \
 A raw dataset of the West Sahara with ≈3k geolocated tree crown segmentations.
 
+* [**Individual tree point clouds and tree measurements from multi-platform laser scanning in German forests**](https://doi.org/10.5194/essd-14-2989-2022) *(Weiser et al., 2022)* \
+Spatially overlapping 3D laser scanning point clouds acquired from three different acquisition platforms (airplane, UAV and terrestrial tripod) in 12 forest plots in Germany, including individually segmented single tree point clouds and field-measured as well as point-cloud derived tree metrics. Also available for download from the [pytreedb demo website](https://pytreedb.geog.uni-heidelberg.de/), including various filtering options.
+
 ## Forest type / land cover classification
 - [**BigEarthNet: large-scale Sentinel-2 benchmark**](http://bigearth.net/) *(TU Berlin, 2019)* \
 A landcover multi-classification dataset from 10 European countries with ≈600k labeled images with CORINE land cover labels with Sentinel-2 L2A (10m res.) satellite imagery.
