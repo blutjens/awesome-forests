@@ -209,6 +209,9 @@ A list of more satellite imagery datasets with annotations for deep learning and
 - [**Awesome GIS**](https://github.com/sshuair/awesome-gis) \
 A list of GIS resources.
 
+- [**OpenForest**]([https://github.com/sshuair/awesome-gis](https://github.com/RolnickLab/OpenForest/blob/main/OpenForest.csv) \
+A list of over 88 datasets in forestry that are open-access and focused on understanding the composition of forests at the tree level
+
 - todo: add link to dataset list on [conservationtech.directory](https://conservationtech.directory/)
 
 ## Attributions
