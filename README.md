@@ -1,5 +1,5 @@
 # awesome-forests [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-**Awesome-forests** is a curated list of ground-truth/validation/in situ forest datasets for the forest-interested machine learning community. The list targets data-based biodiversity, carbon, wildfire, ecosystem service, you name it! analysis.
+**Awesome-forests** is a curated list of ground-truth/validation/in situ forest datasets for the forest-interested machine learning community. The list targets data-based biodiversity, carbon, wildfire, ecosystem service, you name it! analysis. The list does NOT contain data products, such as, algorithm-generated global maps.
 
 Getting started with data science in forests is TOUGH. The lack of organized datasets is one reason why. So, this list of datasets intends to get you started with building machine learning models for analysing your forests.
 
@@ -11,19 +11,20 @@ Photo of a dog in a forest, by [**Jamie Street**](https://unsplash.com/@jamie452
 ## Content
 - [**Tree species classification**](#tree-species-classification)
 - [**Tree detection**](#tree-detection)
-- [**Tree damage / health classification**](#tree-damage-/-health-classification)
+- [**Tree damage and health classification**](#tree-damage-and-health-classification)
 - [**Navigation in forests**](#navigation-in-forests)
 - [**Biodiversity flora**](#biodiversity-flora)
 - [**Tree crown segmentation**](#tree-crown-segmentation)
 - [**Aboveground carbon quantification**](#aboveground-carbon-quantification)
 - [**Belowground carbon quantification**](#belowground-carbon-quantification)
-- [**Forest type classification**](#forest-type-and-land-cover-classification)
-- [**Change detection**](#change-detection-and-deforestation)
+- [**Forest type and land cover classification**](#forest-type-and-land-cover-classification)
+- [**Change detection and deforestation**](#change-detection-and-deforestation)
 - [**Wildfire**](#wildfire)
 - [**Wildlife**](#wildlife)
-- [**Bioacoustics**](#Bioacoustics)
+- [**Bioacoustics**](#bioacoustics)
 - [**Raw geospatial imagery**](#raw-geospatial-imagery)
 - [**Awesome-awesome**](#awesome-awesome)
+- [**Excluded data products**](#excluded-data-products)
 
 ## Tree species classification
 #### Processed
@@ -76,7 +77,7 @@ This repository contains two datasets: 43k synthetic forest images and 100 real 
 #### Raw
 * see [Tree species](#tree-species-classification)
 
-## Tree damage / health classification
+## Tree damage and health classification
 - [**Forest Damages – Larch Casebearer**](https://lila.science/datasets/forest-damages-larch-casebearer/) *(Swedish Forest Agency, 2021)* \
 A tree damage classification dataset from 5 areas in Sweden with 1.5k images with >100k labeled trees with airborne RGB
 
@@ -99,6 +100,9 @@ An ML-processed dataset from six reforestation sites in Ecuador for estimating a
 A forest height quantification dataset from Mexico with lidar-derived canopy height values, Landsat-derived vegetation indices, and 1105 aerial images. 
 
 #### Raw
+- [**Carbon Stocks of Individual Trees in African Drylands: Allometry and Output Data**](https://daac.ornl.gov/VEGETATION/guides/Semi-Arid_Tree_Carbon_50cm.html) *(Tucker et al., 2023)*\
+Contains raw field measurements of destructive harvests of individual trees in African drylands to derive allometry equations. I could not find the associated Tucker et al., 2023 paper's ground-truth data of tree crowns.
+
 - [**Tallo: a global tree allometry and crown architecture database**](https://doi.org/10.1111/gcb.16302) *(Jucket et al., 2022)* \
 A dataset with 500k georeferenced records of individual trees >62k globally distributed sites, >5k tree species from >180 plant families with >100 data contributors from >40 countries
 
@@ -136,7 +140,7 @@ A raw dataset of the West Sahara with ≈3k geolocated tree crown segmentations.
 * [**Individual tree point clouds and tree measurements from multi-platform laser scanning in German forests**](https://doi.org/10.5194/essd-14-2989-2022) *(Weiser et al., 2022)* \
 Spatially overlapping 3D laser scanning point clouds acquired from three different acquisition platforms (airplane, UAV and terrestrial tripod) in 12 forest plots in Germany, including individually segmented single tree point clouds and field-measured as well as point-cloud derived tree metrics. Also available for download from the [pytreedb demo website](https://pytreedb.geog.uni-heidelberg.de/), including various filtering options.
 
-## Forest type / land cover classification
+## Forest type and land cover classification
 - [**coastTrain**](https://doi.org/10.5281/zenodo.7080756/) *(Murray et al., 2022)* \
 A dataset with over 190K point observations of coastal ecosystem classes (tidal flat, mangrove, coral reef, saltmarsh, seagrass, interdial, kelp, ...) including geolocation and relevant metadata, but no satellite imagery.
 
@@ -159,7 +163,7 @@ A small land cover classification dataset with 2100 images and 21 balanced class
 
 - See [**SustainBench**](https://github.com/chrieke/awesome-satellite-imagery-datasets) for more UN SDG -related satellite imagery datasets.
 
-## Change detection (i.e., deforestation)
+## Change detection and deforestation
 - [**Dynamic EarthNet challenge**](http://www.classic.grss-ieee.org/earthvision2021/challenge.html) *(Planet, DLR, TUM, 2021)* \
 A time-series prediction and multi-class change detection dataset of Europe over 2-years with 75 image time-series with 7 land-cover labels and weekly Planet RGB (3m res.) imagery.
 
@@ -213,9 +217,16 @@ A list of more satellite imagery datasets with annotations for deep learning and
 A list of GIS resources.
 
 - [**OpenForest**](https://github.com/RolnickLab/OpenForest/blob/main/OpenForest.csv) \
-A list of over 88 datasets in forestry that are open-access and focused on understanding the composition of forests at the tree level
+A list of over 88 in-situ datasets and data products in forestry that are open-access and focused on understanding the composition of forests at the tree level
 
 - todo: add link to dataset list on [conservationtech.directory](https://conservationtech.directory/)
+  
+## Excluded data products
+These datasets were excluded, because we could not find a source for the validation dataset. If you know the source please create an issue or pull request. 
+- [Forest biomass in China](https://doi.org/10.5194/essd-15-897-2023)
+
+- [Canopy Height map by WRI and Meta](https://doi.org/10.1016/j.rse.2023.113888) \
+Used GEDI and NEON datasets for training and/or validation. 
 
 ## Attributions
 - Awesome-forests contains individual entries from [Awesome satellite imagery datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) and [Awesome remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
