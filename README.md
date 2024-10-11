@@ -137,7 +137,7 @@ A raw dataset of the West Sahara with ≈3k geolocated tree crown segmentations.
 Spatially overlapping 3D laser scanning point clouds acquired from three different acquisition platforms (airplane, UAV and terrestrial tripod) in 12 forest plots in Germany, including individually segmented single tree point clouds and field-measured as well as point-cloud derived tree metrics. Also available for download from the [pytreedb demo website](https://pytreedb.geog.uni-heidelberg.de/), including various filtering options.
 
 ## Forest type / land cover classification
-- [**coastTrain**]([https://www.kaggle.com/c/inaturalist-2021](https://doi.org/10.5281/zenodo.7080756)) *(Murray et al., 2022)* \
+- [**coastTrain**](https://doi.org/10.5281/zenodo.7080756/) *(Murray et al., 2022)* \
 A dataset with over 190K point observations of coastal ecosystem classes (tidal flat, mangrove, coral reef, saltmarsh, seagrass, interdial, kelp, ...) including geolocation and relevant metadata, but no satellite imagery.
 
 - [**BigEarthNet: large-scale Sentinel-2 benchmark**](http://bigearth.net/) *(TU Berlin, 2019)* \
@@ -212,7 +212,7 @@ A list of more satellite imagery datasets with annotations for deep learning and
 - [**Awesome GIS**](https://github.com/sshuair/awesome-gis) \
 A list of GIS resources.
 
-- [**OpenForest**]([https://github.com/sshuair/awesome-gis](https://github.com/RolnickLab/OpenForest/blob/main/OpenForest.csv) \
+- [**OpenForest**](https://github.com/RolnickLab/OpenForest/blob/main/OpenForest.csv) \
 A list of over 88 datasets in forestry that are open-access and focused on understanding the composition of forests at the tree level
 
 - todo: add link to dataset list on [conservationtech.directory](https://conservationtech.directory/)
