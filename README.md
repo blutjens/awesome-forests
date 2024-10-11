@@ -72,6 +72,9 @@ damage in four categories.
 - [**Norlab – PercepTree**](https://github.com/norlab-ulaval/PercepTreeV1) *(Northern laboratory, 2022)* \
 This repository contains two datasets: 43k synthetic forest images and 100 real image dataset. Both include high-definition RGB images with depth information, bounding box, instance segmentation masks and keypoints annotation.
 
+-[**FinnWoodlands Dataset**](https://github.com/juanb09111/FinnForest) *(Tampere University, Finland, 2023)* \
+This repository contains RGB stereo images, point clouds, and sparse depth maps, as well as ground truth manual annotations for semantic, instance, and panoptic segmentation.
+
 #### Raw
 * see [Tree species](#tree-species-classification)
 
