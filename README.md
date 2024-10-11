@@ -72,15 +72,16 @@ damage in four categories.
 - [**Norlab – PercepTree**](https://github.com/norlab-ulaval/PercepTreeV1) *(Northern laboratory, 2022)* \
 This repository contains two datasets: 43k synthetic forest images and 100 real image dataset. Both include high-definition RGB images with depth information, bounding box, instance segmentation masks and keypoints annotation.
 
-- [**FinnWoodlands Dataset**](https://github.com/juanb09111/FinnForest) *(Tampere University, Finland, 2023)* \
-This repository contains RGB stereo images, point clouds, and sparse depth maps, as well as ground truth manual annotations for semantic, instance, and panoptic segmentation.
-
 #### Raw
 * see [Tree species](#tree-species-classification)
 
 ## Tree damage / health classification
 - [**Forest Damages – Larch Casebearer**](https://lila.science/datasets/forest-damages-larch-casebearer/) *(Swedish Forest Agency, 2021)* \
 A tree damage classification dataset from 5 areas in Sweden with 1.5k images with >100k labeled trees with airborne RGB
+
+## Navigation in forests
+- [**FinnWoodlands Dataset**](https://github.com/juanb09111/FinnForest) *(Tampere University, Finland, 2023)* \
+A dataset for autonomous nagivation inside forests with ~5K RGB stereo images, point clouds, and sparse depth maps, as well as 300 annotated frames for semantic, instance, or panoptic segmentation of tree trunks, paths, and more.
 
 ## Biodiversity flora
 - [**Kaggle iNaturalist**](https://www.kaggle.com/c/inaturalist-2021) *(iNaturalist, FGVC8, 2021)* \
