@@ -12,6 +12,7 @@ Photo of a dog in a forest, by [**Jamie Street**](https://unsplash.com/@jamie452
 - [**Tree species classification**](#tree-species-classification)
 - [**Tree detection**](#tree-detection)
 - [**Tree damage / health classification**](#tree-damage-/-health-classification)
+- [**Navigation in forests**](#navigation-in-forests)
 - [**Biodiversity flora**](#biodiversity-flora)
 - [**Tree crown segmentation**](#tree-crown-segmentation)
 - [**Aboveground carbon quantification**](#aboveground-carbon-quantification)
