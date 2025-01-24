@@ -131,10 +131,11 @@ A large raw dataset of allometric equations, wood densities, raw biomass and vol
 
 ## Tree crown segmentation
 #### Processed
-* todo. To get started, see [Tree Detection](#tree-detection) for rectangular bounding boxes of tree crowns.
+* [**Quebec Trees Dataset**](https://zenodo.org/records/8148479) *(Cloutier et al., 2023)* \
+Tree crown segmentation dataset of 14 classes over 23000 labeled tree crowns. The dataset is composed of high-resolution RGB orthomosaics for seven dates in 2021, and associated photogrammetric point clouds. 
 
 #### Raw
-* [**An Unexpectedly Large Count of Trees in the West African Sahara and Sahel**](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1832) (Brandt et al., 2020) \
+* [**An Unexpectedly Large Count of Trees in the West African Sahara and Sahel**](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1832) *(Brandt et al., 2020)* \
 A raw dataset of the West Sahara with ≈3k geolocated tree crown segmentations.
 
 * [**Individual tree point clouds and tree measurements from multi-platform laser scanning in German forests**](https://doi.org/10.5194/essd-14-2989-2022) *(Weiser et al., 2022)* \
