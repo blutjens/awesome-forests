@@ -81,6 +81,10 @@ This repository contains two datasets: 43k synthetic forest images and 100 real 
 - [**Forest Damages – Larch Casebearer**](https://lila.science/datasets/forest-damages-larch-casebearer/) *(Swedish Forest Agency, 2021)* \
 A tree damage classification dataset from 5 areas in Sweden with 1.5k images with >100k labeled trees with airborne RGB
 
+#### Raw
+- [**UAV data of standing deadwood**](https://lila.science/datasets/forest-damages-larch-casebearer/) *(Schiefer et al., 2023)* \
+A dataset of aerial UAV imagery of standing deadwood as time-series over four years (2018-2021), ~700ha, at 10m resolution, in Germany and Finland
+
 ## Navigation in forests
 - [**FinnWoodlands Dataset**](https://github.com/juanb09111/FinnForest) *(Tampere University, Finland, 2023)* \
 A dataset for autonomous nagivation inside forests with ~5K RGB stereo images, point clouds, and sparse depth maps, as well as 300 annotated frames for semantic, instance, or panoptic segmentation of tree trunks, paths, and more.
