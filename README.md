@@ -82,7 +82,7 @@ This repository contains two datasets: 43k synthetic forest images and 100 real 
 A tree damage classification dataset from 5 areas in Sweden with 1.5k images with >100k labeled trees with airborne RGB
 
 #### Raw
-- [**UAV data of standing deadwood**](https://lila.science/datasets/forest-damages-larch-casebearer/) *(Schiefer et al., 2023)* \
+- [**UAV data of standing deadwood**](https://doi.org/10.5445/IR/1000158765) *(Schiefer et al., 2023)* \
 A dataset of aerial UAV imagery of standing deadwood as time-series over four years (2018-2021), ~700ha, at 10m resolution, in Germany and Finland
 
 ## Navigation in forests
