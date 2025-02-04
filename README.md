@@ -135,6 +135,9 @@ A large raw dataset of allometric equations, wood densities, raw biomass and vol
 
 ## Tree crown segmentation
 #### Processed
+* [**FOR-instance**](https://doi.org/10.5281/zenodo.8287792) *(Puliti et al., 2023)* \
+ML-ready benchmark dataset for 3D semantic and instance segmentation of 1130 individual trees within 5 classes from UAV-based Riegl LiDAR sensor with over 2.79 ha from 5 countries.
+
 * [**Quebec Trees Dataset**](https://zenodo.org/records/8148479) *(Cloutier et al., 2023)* \
 Tree crown segmentation dataset of 14 classes over 23000 labeled tree crowns. The dataset is composed of high-resolution RGB orthomosaics for seven dates in 2021, and associated photogrammetric point clouds. 
 
