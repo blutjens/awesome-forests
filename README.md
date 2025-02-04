@@ -3,7 +3,7 @@
 
 Getting started with data science in forests is TOUGH. The lack of organized datasets is one reason why. So, this list of datasets intends to get you started with building machine learning models for analysing your forests.
 
-This is a wide open and inclusive community. We would very much appreciate if you add your favorite datasets via a pull request or (emailing (lutjens at mit [dot] edu).
+If you know of a dataset that you like, please create an issue or email (lutjens at mit [dot] edu) and I'll add it! Thank you:)
 
 <img src="figures/header_img_jamie_street_unsplash_dog_forest.jpg" alt="Happy dog in a forest by Jamie street on Unsplash" width="50%">
 Photo of a dog in a forest, by [**Jamie Street**](https://unsplash.com/@jamie452) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
