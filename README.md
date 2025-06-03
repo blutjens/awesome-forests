@@ -87,7 +87,7 @@ A dataset of aerial UAV imagery of standing deadwood as time-series over four ye
 
 ## Navigation in forests
 - [**FinnWoodlands Dataset**](https://github.com/juanb09111/FinnForest) *(Tampere University, Finland, 2023)* \
-A dataset for autonomous nagivation inside forests with ~5K RGB stereo images, point clouds, and sparse depth maps, as well as 300 annotated frames for semantic, instance, or panoptic segmentation of tree trunks, paths, and more.
+A dataset for autonomous navigation inside forests with ~5K RGB stereo images, point clouds, and sparse depth maps, as well as 300 annotated frames for semantic, instance, or panoptic segmentation of tree trunks, paths, and more.
 
 ## Biodiversity flora
 - [**Kaggle iNaturalist**](https://www.kaggle.com/c/inaturalist-2021) *(iNaturalist, FGVC8, 2021)* \
@@ -150,7 +150,7 @@ Spatially overlapping 3D laser scanning point clouds acquired from three differe
 
 ## Forest type and land cover classification
 - [**coastTrain**](https://doi.org/10.5281/zenodo.7080756/) *(Murray et al., 2022)* \
-A dataset with over 190K point observations of coastal ecosystem classes (tidal flat, mangrove, coral reef, saltmarsh, seagrass, interdial, kelp, ...) including geolocation and relevant metadata, but no satellite imagery.
+A dataset with over 190K point observations of coastal ecosystem classes (tidal flat, mangrove, coral reef, saltmarsh, seagrass, intertidal, kelp, ...) including geolocation and relevant metadata, but no satellite imagery.
 
 - [**BigEarthNet: large-scale Sentinel-2 benchmark**](http://bigearth.net/) *(TU Berlin, 2019)* \
 A landcover multi-classification dataset from 10 European countries with ≈600k labeled images with CORINE land cover labels with Sentinel-2 L2A (10m res.) satellite imagery.
