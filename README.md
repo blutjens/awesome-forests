@@ -172,7 +172,7 @@ A small land cover classification dataset with 2100 images and 21 balanced class
 - See [**SustainBench**](https://github.com/chrieke/awesome-satellite-imagery-datasets) for more UN SDG -related satellite imagery datasets.
 
 ## Change detection and deforestation
-- [**Dynamic EarthNet challenge**](http://www.classic.grss-ieee.org/earthvision2021/challenge.html) *(Planet, DLR, TUM, 2021)* \
+- [**Dynamic EarthNet challenge**](https://www.grss-ieee.org/wp-content/uploads/earthvision2021/challenge.html) *(Planet, DLR, TUM, 2021)* \
 A time-series prediction and multi-class change detection dataset of Europe over 2-years with 75 image time-series with 7 land-cover labels and weekly Planet RGB (3m res.) imagery.
 
 - [**Semantic change detection dataset (SECOND)**](http://www.captain-whu.com/PROJECT/SCD/) *(Yang et al., 2020)* \
