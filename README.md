@@ -77,7 +77,10 @@ This repository contains two datasets: 43k synthetic forest images and 100 real 
 #### Raw
 * see [Tree species](#tree-species-classification)
 
-## Tree damage and health classification
+## Tree traits, damage, and health classification
+- [**Spectra to functional traits**](https://doi.org/10.1016/j.rse.2023.113580) *(Cherif et al., 2023)* \
+A functional trait analysis dataset with 42 sets across the US, Asia, and Europe with multi-sensor airborne 1D canopy spectra (400-2500nm) and in-situ trait measurements (AI, LMA, pigments, ...)
+
 - [**Forest Damages – Larch Casebearer**](https://lila.science/datasets/forest-damages-larch-casebearer/) *(Swedish Forest Agency, 2021)* \
 A tree damage classification dataset from 5 areas in Sweden with 1.5k images with >100k labeled trees with airborne RGB
 
